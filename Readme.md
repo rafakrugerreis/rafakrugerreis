@@ -1,46 +1,195 @@
-## Olá, ✌
+# Rafael Kruger dos Reis
 
-Meu nome é Rafael Kruger dos Reis, resido na cidade de Ijuí, Rio Grande do Sul, Brasil. Sou estudante de ciencias da computação na Universidade Regional do Noroeste do Estado do Rio Grande do Sul (Unijui). Atualmente sou desenvolvedor full stack junior mas estou sempre em busca de novos aprendizados. 
+**`Desenvolvedor FullStack`**
 
-<a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
-</a>
+👋 Olá! Eu sou Rafael Kruger dos Reis, desenvolvedor full stack e estudante de Ciência da Computação na Universidade Regional do Noroeste do Estado do Rio Grande do Sul (Unijui). Minha paixão por tecnologia me levou a desenvolver uma sólida experiência em diversas áreas do desenvolvimento de software e infraestrutura, o que me permite atuar de forma abrangente e estratégica em projetos de tecnologia.
 
+### 💻 Algumas tecnologias e ferramentas que costumo usar:
+
+<b>Back-end</b>: PHP, Python, JavaScript, Shell Script
+<br>
+<b>Front-end</b>: Conhecimento em frameworks como Bulma, Bootstrap e pré-processadores CSS (Sass)
+<br>
+<b>Desenvolvimento em Containers</b>: Docker
+<br>
+<b>Cloud Computing</b>: AWS, Google Cloud e conhecimento básico em Azure
+<br>
+<b>Versionamento e Colaboração</b>: Git & GitHub
+<br>
+
+### 🎓 Educação:
+
+Graduação em Ciência da Computação (2022 – 2027)
+<br>
+Certificação Full Stack pela Onebitcode
+<br>
+
+Sou movido pela curiosidade e o desejo constante de aprender e superar novos desafios. Com uma abordagem analítica e colaborativa, estou sempre buscando melhorar a eficiência e a qualidade do meu trabalho, utilizando metodologias ágeis e boas práticas de desenvolvimento.
+
+🚀 Estou aberto a novas oportunidades para contribuir, aprender e crescer no mundo da tecnologia. Vamos conectar e construir algo incrível juntos!
+
+## Visite meu portfólio https://rkrprojects.netlify.app
+
+<p align="left">
+    <a href="https://github.com/rafakrugerreis?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/rafakrugerreis?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/rafakrugerreis?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/rafakrugerreis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 <div>
-<a href="https://instagram.com/rafakrugerreis" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a  href="https://instagram.com/rafakrugerreis" target="_blank">
+ <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rafael-kruger-dos-reis-36a81624a/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+ <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
 </div>
 <br>
 
 
-### Aqui estão algumas das tecnologias que eu gosto de usar
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+alt="Bulma" 
+    title="Bulma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" 
+/>
+<img 
+alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+<br/>
+<br/>
 
-Front-end
+### 📊 Estatísticas
 
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
-![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
-![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=rafakrugerreis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafakrugerreis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-
-
-Back-end:
-
-![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
-![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4)
-![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+</p>
