@@ -6,13 +6,13 @@
 
 ### 💻 Algumas tecnologias e ferramentas que costumo usar:
 
-<b>Back-end</b>: PHP, Python, JavaScript/Node.js
+<b>Back-end</b>: PHP, Python, JavaScript/node.js
 <br>
-<b>Front-end</b>: Conhecimento em frameworks como Bulma, Bootstrap e pré-processadores CSS (Sass) e Next.js
+<b>Front-end</b>: Conhecimento em frameworks como Bulma, Bootstrap, pré-processadores CSS (Sass), Tailwind(CSS), React e Next.js
 <br>
 <b>Desenvolvimento em Containers</b>: Docker e Kubernetes para orquestração
 <br>
-<b>Cloud Computing</b>:Conhecimento básico em Azure, AWS e Google Cloud
+<b>Cloud Computing</b>: Conhecimento básico em Azure, AWS e Google Cloud
 <br>
 <b>Versionamento e Colaboração</b>: Git & GitHub
 <br>
@@ -29,6 +29,10 @@ Sou movido pela curiosidade e o desejo constante de aprender e superar novos des
 🚀 Estou aberto a novas oportunidades para contribuir, aprender e crescer no mundo da tecnologia. Vamos conectar e construir algo incrível juntos!
 
 ## Visite meu portfólio https://rkrprojects.netlify.app
+
+## Próximos desafios para 2025
+
+<b>Aprendizado</b>: Tenho muito interesse em sempre aprender novas linguagens e tecnologias, atualmente iniciei meus estudos em C# e frameworks como Vue.js e Angular. Tenho interesse num futuro próximo em aprender Laravel.
 
 <p align="left">
     <a href="https://github.com/rafakrugerreis?tab=repositories&sort=stargazers">
