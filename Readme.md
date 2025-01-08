@@ -6,13 +6,13 @@
 
 ### 💻 Algumas tecnologias e ferramentas que costumo usar:
 
-<b>Back-end</b>: PHP, Python, JavaScript, Shell Script
+<b>Back-end</b>: PHP, Python, JavaScript/Node.js
 <br>
-<b>Front-end</b>: Conhecimento em frameworks como Bulma, Bootstrap e pré-processadores CSS (Sass)
+<b>Front-end</b>: Conhecimento em frameworks como Bulma, Bootstrap e pré-processadores CSS (Sass) e Next.js
 <br>
-<b>Desenvolvimento em Containers</b>: Docker
+<b>Desenvolvimento em Containers</b>: Docker e Kubernetes para orquestração
 <br>
-<b>Cloud Computing</b>: AWS, Google Cloud e conhecimento básico em Azure
+<b>Cloud Computing</b>:Conhecimento básico em Azure, AWS e Google Cloud
 <br>
 <b>Versionamento e Colaboração</b>: Git & GitHub
 <br>
