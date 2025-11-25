@@ -71,24 +71,3 @@ I am driven by continuous learning, curiosity, and a commitment to technical exc
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img alt="Bulma" title="Bulma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" />
 <img alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-
-<br/><br/>
-
-### 📊 GitHub Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafakrugerreis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafakrugerreis&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-</p>
